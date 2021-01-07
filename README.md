@@ -17,4 +17,6 @@ Right now - NOTHING!
 Packet stage:
 - [x] Greeting Packet
 ![Greeting Packet image](https://i.imgur.com/IlOlUGb.png)
-- [ ] Auth Packet
+- [x] Auth Packet
+- [x] Version Packet
+- [ ] Command Packet
