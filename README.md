@@ -6,6 +6,9 @@ MongoSQL - BAS (Bridge As Service) - Bridge MongoDB with SQL Service Server (Imi
 ![MongoSQL](https://i.imgur.com/mAC4RTN.png)
 ![MongoSQL Databases list](https://i.imgur.com/PwYsXc1.png)
 
+## Our Goal
+Our goal: To combine the familiar MySQL system with SQL queries with an ultra-fast, flexible and efficient No-SQL MongoDB database.
+Combine the two technologies to produce an ultra fast SQL-like database.
 ## How does it work?
 We have a MongoDB server and a client that works with MySQL-type databases.
 Mongosql simulates the operation of a MySQL server with identical responses to queries with support for SQL commands, but it already works directly with the MongoDB Database.
