@@ -1,7 +1,7 @@
 # MongoSQL 
 ![MongoSQL-LOGO](https://i.imgur.com/frhyKff.png) 
 
-MongoSQL - BAS (Bridge As Service) - Bridge MongoDB with SQL Service Server (Imitate MySQL server with MongoDB Backend)
+MongoSQL - BS (Bridge Server) - Bridge MongoDB and SQL Command Interfave (Imitate MySQL MariaDB Server with SQL)
 
 ![MongoSQL](https://i.imgur.com/mAC4RTN.png)
 ![MongoSQL Databases list](https://i.imgur.com/PwYsXc1.png)
