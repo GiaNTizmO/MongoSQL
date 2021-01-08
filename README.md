@@ -22,4 +22,10 @@ Packet stage:
 ![Greeting Packet image](https://i.imgur.com/IlOlUGb.png)
 - [x] Auth Packet
 - [x] Version Packet
+- [ ] Response Packet
 - [ ] Command Packet
+- [ ] MongoDB Integration
+- [x] Config system
+- [ ] mysql_native_password encrypting
+- [ ] OpenSSL Encryption feature
+- [x] CLI Interface
